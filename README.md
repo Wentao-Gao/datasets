@@ -1,3 +1,3 @@
 # Datasets
 
-This is for ijcai paper.
+This is for ECAI paper.
